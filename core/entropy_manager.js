@@ -1,0 +1,1 @@
+console.log('entropy seed locked');
